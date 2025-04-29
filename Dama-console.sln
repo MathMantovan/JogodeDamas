@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dama-console", "Dama-console\Dama-console.csproj", "{58C13BC5-CAFC-49E3-A701-CB3C16BBA386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C13BC5-CAFC-49E3-A701-CB3C16BBA386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C13BC5-CAFC-49E3-A701-CB3C16BBA386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C13BC5-CAFC-49E3-A701-CB3C16BBA386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C13BC5-CAFC-49E3-A701-CB3C16BBA386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210AA106-3F1E-406C-92FD-9DE563D094CC}
+	EndGlobalSection
+EndGlobal
